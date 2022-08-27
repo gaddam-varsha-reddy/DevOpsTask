@@ -1,4 +1,3 @@
-4.Pattern 
 Pattern(){
 i=1
 while [ $i -le $1 ]

@@ -1,4 +1,3 @@
-2.prime no 
 PrimeOrNot(){
 c=2
 flag=0

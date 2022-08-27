@@ -1,4 +1,3 @@
-1.odd-even code:
 EvenOrOdd(){
 result=`expr $1 % 2`
 if [ $result -eq 0 ]

@@ -1,5 +1,3 @@
-
-5.Date,Directory,UserName 
 d=$(date)
 echo "$d" 
 echo "The current working directory: $PWD"

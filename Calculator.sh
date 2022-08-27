@@ -1,4 +1,3 @@
-6.Calculator 
 Calculator(){
 case "$1" in
    "1") 
